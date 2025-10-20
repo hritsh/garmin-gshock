@@ -1,0 +1,40 @@
+<layout id="WatchFace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <drawable class="Background" />
+    <!-- <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_LARGE"
+    justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" /> -->
+    <!-- <bitmap id="bg" x="0" y="0" filename="gshock4.png" /> -->
+
+    <!-- Row 1: Battery, Day, Date -->
+    <label
+        id="battery" x="20" y="80" font="Graphics.FONT_LARGE" />
+    <label id="day" x="100" y="80"
+        font="Graphics.FONT_LARGE" />
+    <label id="date" x="180" y="80" font="Graphics.FONT_LARGE" />
+
+    <!-- Row 2: AM/PM, Time, Seconds -->
+    <label
+        id="ampm"
+        x="20" y="120" font="Graphics.FONT_LARGE" />
+    <label id="time" x="60" y="120"
+        font="Graphics.FONT_LARGE" />
+    <label
+        id="seconds" x="220" y="140" font="Graphics.FONT_LARGE" />
+    <!-- <bitmap id="notif" x="200" y="120" filename="notif.png" /> -->
+    <!-- <bitmap id="bt" x="220" y="120" filename="bt.png" /> -->
+
+    <!-- Row 3: NYC Time, HR, Steps -->
+    <label id="nyc" x="20"
+        y="169" font="Graphics.FONT_LARGE" />
+    <label id="hr" x="100" y="169"
+        font="Graphics.FONT_LARGE" />
+    <label
+        id="steps" x="180" y="169" font="Graphics.FONT_LARGE" />
+
+    <!-- Row 4: Steps + Body Battery -->
+    <label id="stepsSmall" x="20"
+        y="200"
+        font="Graphics.FONT_LARGE" />
+    <label id="bodyBattery" x="180" y="200"
+        font="Graphics.FONT_LARGE" />
+</layout>
