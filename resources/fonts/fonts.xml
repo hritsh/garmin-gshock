@@ -1,25 +1,25 @@
-<fonts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+<fonts>
     <!-- Tiny font (Eurostile) - size 8 -->
-    <font id="TinyFont" filename="tiny/tiny.fnt" />
-    
+    <font id="tiny" filename="tiny/tiny.fnt" />
+
     <!-- LCD Small font (Technology) - size 23 -->
-    <font id="LcdSmallFont" filename="lcd_small/lcd_small.fnt" />
-    
+    <font id="lcd_small" filename="lcd_small/lcd_small.fnt" />
+
     <!-- LCD Medium font (Technology) - size 48 -->
-    <font id="LcdMediumFont" filename="lcd_medium/lcd_medium.fnt" />
-    
+    <font id="lcd_medium" filename="lcd_medium/lcd_medium.fnt" />
+
     <!-- LCD2 font (Technology) - alternative -->
-    <font id="Lcd2Font" filename="lcd2/lcd2.fnt" />
-    
+    <font id="lcd2" filename="lcd2/lcd2.fnt" />
+
     <!-- Tech3 font (Technology) - alternative -->
-    <font id="Tech3Font" filename="tech3/tech3.fnt" />
-    
+    <font id="tech3" filename="tech3/tech3.fnt" />
+
     <!-- Dot XSmall font (TRS Million) - size 16 -->
-    <font id="DotXSmallFont" filename="dot_xsmall/dot.fnt" />
-    
+    <font id="dot_xsmall" filename="dot_xsmall/dot.fnt" />
+
     <!-- Dot Small font (TRS Million) - size 18 -->
-    <font id="DotSmallFont" filename="dot_small/dot.fnt" />
-    
+    <font id="dot_small" filename="dot_small/dot.fnt" />
+
     <!-- Dot Medium font (TRS Million) -->
-    <font id="DotMediumFont" filename="dot_medium/dot.fnt" />
+    <font id="dot_medium" filename="dot_medium/dot.fnt" />
 </fonts>

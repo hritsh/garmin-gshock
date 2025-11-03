@@ -1,10 +1,7 @@
-<strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
-
-    <string id="AppName">Garmin G-Shock</string>
-
-    <string id="ThemeTitle">Watch Face Theme</string>
-    <string id="ThemeOriginal">Original (Grey)</string>
-    <string id="ThemeRed">Red</string>
-    <string id="ThemeGreen">Green</string>
-
+<strings>
+    <string id="AppName">garmin-gshock</string>
+    <string id="ColorThemeTitle">Color Theme</string>
+    <string id="ColorThemeOriginal">Original (Grey)</string>
+    <string id="ColorThemeRed">Red</string>
+    <string id="ColorThemeGreen">Green</string>
 </strings>

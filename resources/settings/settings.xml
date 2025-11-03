@@ -1,11 +1,9 @@
-<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
-
-    <setting propertyKey="@Properties.Theme" title="@Strings.ThemeTitle">
+<settings>
+    <setting propertyKey="@Properties.ColorTheme" title="@Strings.ColorThemeTitle">
         <settingConfig type="list">
-            <listEntry value="0">@Strings.ThemeOriginal</listEntry>
-            <listEntry value="1">@Strings.ThemeRed</listEntry>
-            <listEntry value="2">@Strings.ThemeGreen</listEntry>
+            <listEntry value="0">@Strings.ColorThemeOriginal</listEntry>
+            <listEntry value="1">@Strings.ColorThemeRed</listEntry>
+            <listEntry value="2">@Strings.ColorThemeGreen</listEntry>
         </settingConfig>
     </setting>
-
 </settings>

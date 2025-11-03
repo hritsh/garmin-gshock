@@ -1,6 +1,6 @@
-<drawables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
-    <bitmap id="LauncherIcon" filename="launcher_icon.svg" dithering="none" />
-    <bitmap id="BgOriginal" filename="../images/gshock_original_bg.png" />
-    <bitmap id="BgRed" filename="../images/gshock_red_bg.png" />
-    <bitmap id="BgGreen" filename="../images/gshock_green_bg.png" />
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.svg" />
+    <bitmap id="gshock_original_bg" filename="../images/gshock_original_bg.png" />
+    <bitmap id="gshock_red_bg" filename="../images/gshock_red_bg.png" />
+    <bitmap id="gshock_green_bg" filename="../images/gshock_green_bg.png" />
 </drawables>
