@@ -18,7 +18,7 @@ a g-shock inspired watch face for garmin watches, specifically designed for the 
 
 i love the mip display on my garmin (i have a forerunner 255) and i missed having the retro lcd look of my casio and g-shock watches. there were some casio-style faces on the connect iq store, but they weren't as customizable as i wanted. so i made my own.
 
-this watch face replicates the classic g-shock digital watch aesthetic with all the data fields you need for daily use and workouts.
+this watch face replicates the classic g-shock digital watch aesthetic with all the data fields you (I) need for daily use.
 
 ---
 
@@ -53,8 +53,8 @@ the entire design was created in figma. you can check out all the svgs and compo
 ### color calibration
 
 <p align="center">
-    <img width="260" height="260" alt="image" src="https://github.com/user-attachments/assets/8b7c9636-d84b-42d7-9d20-808488e2664f" />
-    <img width="600" height="286" alt="image" src="https://github.com/user-attachments/assets/8a9af4e4-37a2-4cbe-811f-1029784bcb76" />
+    <img width="260" height="260" alt="image" src="https://i.ibb.co/k69w0BfR/image.png" />
+    <img width="600" height="286" alt="image" src="https://i.ibb.co/MkS3ZTzb/image.png" />
 </p>
 
 the colors look very bright on regular screens, but this is intentional. the garmin mip display has different color reproduction, and these bright colors translate to the perfect tones on the actual watch. [credit](https://www.reddit.com/r/GarminWatches/comments/1g0p0e0/comment/lrayu95)
