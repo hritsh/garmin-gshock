@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="./resources/drawables/launcher_icon.svg" width="64" height="64" alt="garmin gshock icon" />
+  <img src="./screenshots/watchface.png" width="64" height="64" alt="garmin gshock icon" />
 </p>
 
-<h1 align="center">garmin-gshock watch face</h1>
+<h1 align="center">gshock watch face for garmin</h1>
 
 <p align="center">
   <img src="./screenshots/original.png" alt="original grey" width="260"/>
-  <img src="./screenshots/red.png" alt="red theme" width="260"/>
   <img src="./screenshots/green.png" alt="green theme" width="260"/>
+  <img src="./screenshots/red.png" alt="red theme" width="260"/>
 </p>
 
 ---
@@ -41,14 +41,6 @@ this watch face replicates the classic g-shock digital watch aesthetic with all 
 
 ---
 
-## screenshots
-
-<p align="center">
-  <img src="./screenshots/original.png" width="260" alt="original theme" />
-  <img src="./screenshots/red.png" width="260" alt="red theme" />
-  <img src="./screenshots/green.png" width="260" alt="green theme" />
-</p>
-
 ### design process
 
 <p align="center">
@@ -56,12 +48,13 @@ this watch face replicates the classic g-shock digital watch aesthetic with all 
 </p>
 
 the entire design was created in figma. you can check out all the svgs and components here:
-[**figma design link**](#)
+[**figma design link**](https://www.figma.com/design/HQZiLoewHLv4LCyWn4ipz6/garmin-gshock?node-id=46-279&t=uZAsZONLAkhuWvjV-1)
 
 ### color calibration
 
 <p align="center">
-  <img src="./screenshots/color_comparison.png" width="600" alt="screen colors vs mip display" />
+    <img width="260" height="260" alt="image" src="https://github.com/user-attachments/assets/8b7c9636-d84b-42d7-9d20-808488e2664f" />
+    <img width="600" height="286" alt="image" src="https://github.com/user-attachments/assets/8a9af4e4-37a2-4cbe-811f-1029784bcb76" />
 </p>
 
 the colors look very bright on regular screens, but this is intentional. the garmin mip display has different color reproduction, and these bright colors translate to the perfect tones on the actual watch. [credit](https://www.reddit.com/r/GarminWatches/comments/1g0p0e0/comment/lrayu95)
@@ -84,8 +77,8 @@ the colors look very bright on regular screens, but this is intentional. the gar
 you can change the color theme in the watch face settings:
 
 - **original (grey)**: classic g-shock look
-- **red**: bold red accents
-- **green**: vibrant green theme
+- **green**: green lcd inspired by the [timex expedition cat5 t49949](https://timex.eu/products/expedition-cat5-40mm-leather-and-fabric-strap-watch-tw4b30300)
+- **red**: red lcd inspired by the [casio g-shock dw-5600](https://www.casio.com/uk/watches/gshock/product.DW-5600BBR-1/)
 
 ---
 
